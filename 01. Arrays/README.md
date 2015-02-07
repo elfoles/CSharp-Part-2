@@ -21,7 +21,7 @@ _Example:_
 | 2, 1, 1, 2, 3, 3, **2, 2, 2**, 1 | 2, 2, 2 |
 
 ### Problem 5. Maximal increasing sequence
-*	Write a program that finds the maximal increasing sequence in an array.
+*	Write a program that finds a maximal contiguous increasing sequence in an array.
 
 _Example:_
 
@@ -38,7 +38,7 @@ _Example:_
 *	Use the [Selection sort](http://en.wikipedia.org/wiki/Selection_sort) algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.
 
 ### Problem 8. Maximal sum
-*	Write a program that finds the sequence of maximal sum in given array.
+*	Write a program that finds a contiguous sequence of maximal sum in given array.
 
 _Example:_
 
@@ -107,7 +107,7 @@ _Example:_
 | 6, **1**, 4, **3**, 0, **3**, 6, **4**, **5** | 1, 3, 3, 4, 5 |
 
 ### Problem 19.* Permutations of set
-*	Write a program that reads a number `N` and generates and prints all the permutations of the numbers [`1 … N`].
+*	Write a program that reads a number `N` and generates and prints all the permutations of the numbers [`1 â€¦ N`].
 
 _Example:_
 
